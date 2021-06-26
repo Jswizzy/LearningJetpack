@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LearningJetpack</string>
+    <string name="confirm">Confirm</string>
+    <string name="alert_text">Alert Dialog</string>
+    <string name="alert_title">Jetpack Compose Alert Dialog!</string>
+    <string name="first">"first"</string>
+    <string name="second">"second"</string>
+    <string name="third">"third"</string>
+</resources>
